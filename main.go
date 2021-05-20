@@ -132,6 +132,10 @@ var (
 			location: "São Paulo, Brazil",
 			flagURL:  "https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg",
 		},
+		"europe-central2": {
+			location: "Warsaw, Poland",
+			flagURL:  "https://upload.wikimedia.org/wikipedia/en/1/12/Flag_of_Poland.svg",
+		},
 		"europe-north1": {
 			location: "Hamina, Finland",
 			flagURL:  "https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg",
