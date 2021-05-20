@@ -100,9 +100,17 @@ var (
 			location: "Montréal, Canada",
 			flagURL:  "https://upload.wikimedia.org/wikipedia/commons/d/d9/Flag_of_Canada_%28Pantone%29.svg",
 		},
+		"northamerica-northeast2": {
+			location: "Toronto, Canada",
+			flagURL:  "https://upload.wikimedia.org/wikipedia/commons/d/d9/Flag_of_Canada_%28Pantone%29.svg",
+		},
 		"us-central1": {
 			location: "Council Bluffs, Iowa, USA",
 			flagURL:  "https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg",
+		},
+		"us-central2": {
+			location: "Tulsa, Oklahoma, USA",
+			flagURL:  "https://upload.wikimedia.org/wikipedia/commons/6/6e/Flag_of_Oklahoma.svg",
 		},
 		"us-west1": {
 			location: "The Dalles, Oregon, USA",
@@ -164,6 +172,10 @@ var (
 			location: "Mumbai, India",
 			flagURL:  "https://upload.wikimedia.org/wikipedia/en/4/41/Flag_of_India.svg",
 		},
+		"asia-south2": {
+			location: "Delhi, India",
+			flagURL:  "https://upload.wikimedia.org/wikipedia/en/4/41/Flag_of_India.svg",
+		},
 		"asia-southeast1": {
 			location: "Jurong West, Singapore",
 			flagURL:  "https://upload.wikimedia.org/wikipedia/commons/4/48/Flag_of_Singapore.svg",
@@ -194,6 +206,10 @@ var (
 		},
 		"australia-southeast1": {
 			location: "Sydney, Australia",
+			flagURL:  "https://upload.wikimedia.org/wikipedia/en/b/b9/Flag_of_Australia.svg",
+		},
+		"australia-southeast2": {
+			location: "Melbourne, Australia",
 			flagURL:  "https://upload.wikimedia.org/wikipedia/en/b/b9/Flag_of_Australia.svg",
 		},
 	}
